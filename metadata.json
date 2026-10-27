@@ -1,0 +1,6 @@
+{
+  "name": "ConnectBook — International Social Platform",
+  "description": "Advanced international social registration platform with 100-country dataset, Ethiopia-first localization, smart phone validation, and telecom directory.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
